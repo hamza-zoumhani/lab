@@ -72,3 +72,8 @@ h2 {
 table tr:nth-child(odd)  {
     background: lightgray;
 }
+
+img {
+    height: 300px;
+    border-radius: 50px;
+}
