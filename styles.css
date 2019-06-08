@@ -74,7 +74,7 @@ table tr:nth-child(odd)  {
 }
 
 img {
-    min-width: 5px;
-    min-height: 5px;
+    height: 300px;
+    width: 300px;
     border-radius: 100%;
 }
