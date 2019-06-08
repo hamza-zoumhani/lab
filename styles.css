@@ -68,3 +68,7 @@ h2 {
 #junk-drawer {
     background: red;
 }
+
+table tr:nth-child(odd)  {
+    background: lightgray;
+}
